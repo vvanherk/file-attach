@@ -1,0 +1,14 @@
+{
+  "firstName": "Leo",
+  "lastName": "Spaceman",
+  "street": "125 Main St",
+  "city": "Hamilton",
+  "postalCode": "L8H 5E4",
+  "email": "leo.spaceman@gmail.com",
+  "phoneNumber": "905-555-1212",
+  "faxNumber": "905-666-3434",
+  "ohipNumber": "3434343434343",
+  "cpsoNumber": "2342342342423",
+  "contactMethod": "email",
+  "fhTeam": true
+}
